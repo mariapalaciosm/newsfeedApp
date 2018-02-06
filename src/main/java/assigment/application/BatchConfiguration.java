@@ -48,6 +48,7 @@ import assigment.application.model.News;
 
 @Configuration
 @EnableBatchProcessing
+
 public class BatchConfiguration {
 	
 	@Autowired
