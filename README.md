@@ -1,1 +1,1 @@
-# News Feed Application## Set upExecute NewsfeedDB.sql fileOpen Project in your IDE## Running the application locallyExecute the main method in Application.class (src/main/java/assigment/application/Application.java) from your IDE.
+# News Feed Application## Set up*	Execute NewsfeedDB.sql file*	Open Project in your IDE## Running the application locallyExecute the main method in Application.class (src/main/java/assigment/application/Application.java) from your IDE.
